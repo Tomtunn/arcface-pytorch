@@ -50,7 +50,7 @@ class ArcMarginProduct(nn.Module):
         output *= self.s
         # print(output)
 
-        return output
+        return output 
 
 
 class AddMarginProduct(nn.Module):
