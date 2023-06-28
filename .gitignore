@@ -33,6 +33,7 @@ share/python-wheels/
 *.jpg
 *.txt
 *.tgz
+*.npy
 MANIFEST
 
 # PyInstaller
